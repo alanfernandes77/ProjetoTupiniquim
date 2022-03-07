@@ -1,0 +1,4 @@
+D:\vs-2022 projects\projeto-tupiniquim\projeto-tupiniquim\obj\Debug\net6.0\projeto-tupiniquim.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs-2022 projects\projeto-tupiniquim\projeto-tupiniquim\obj\Debug\net6.0\projeto-tupiniquim.AssemblyInfoInputs.cache
+D:\vs-2022 projects\projeto-tupiniquim\projeto-tupiniquim\obj\Debug\net6.0\projeto-tupiniquim.AssemblyInfo.cs
+D:\vs-2022 projects\projeto-tupiniquim\projeto-tupiniquim\obj\Debug\net6.0\projeto-tupiniquim.csproj.CoreCompileInputs.cache
